@@ -24,7 +24,7 @@ class Register extends Component {
 
 	onSubmitRegister = () => {
   		console.log('onSubmitRegister')
-		fetch('http://localhost:3000/register',{
+		fetch('https://agile-lake-77488.herokuapp.com/register',{
 			method:'post',
 			headers: {'Content-Type':'application/json'},
 			body: JSON.stringify({
