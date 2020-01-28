@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/face-reco/static/css/main.fa1c716c.chunk.css",
-    "main.js": "/face-reco/static/js/main.d5801fff.chunk.js",
-    "main.js.map": "/face-reco/static/js/main.d5801fff.chunk.js.map",
-    "runtime-main.js": "/face-reco/static/js/runtime-main.706943f9.js",
-    "runtime-main.js.map": "/face-reco/static/js/runtime-main.706943f9.js.map",
-    "static/css/2.eb45ad44.chunk.css": "/face-reco/static/css/2.eb45ad44.chunk.css",
-    "static/js/2.69ad6fd3.chunk.js": "/face-reco/static/js/2.69ad6fd3.chunk.js",
-    "static/js/2.69ad6fd3.chunk.js.map": "/face-reco/static/js/2.69ad6fd3.chunk.js.map",
-    "index.html": "/face-reco/index.html",
-    "precache-manifest.79b9bd522d86de0d0566be8f9668eca1.js": "/face-reco/precache-manifest.79b9bd522d86de0d0566be8f9668eca1.js",
-    "service-worker.js": "/face-reco/service-worker.js",
-    "static/css/2.eb45ad44.chunk.css.map": "/face-reco/static/css/2.eb45ad44.chunk.css.map",
-    "static/css/main.fa1c716c.chunk.css.map": "/face-reco/static/css/main.fa1c716c.chunk.css.map",
-    "static/js/2.69ad6fd3.chunk.js.LICENSE": "/face-reco/static/js/2.69ad6fd3.chunk.js.LICENSE",
-    "static/media/logoIcon.jpeg": "/face-reco/static/media/logoIcon.7c2262a7.jpeg"
+    "main.css": "/face-reco-master/static/css/main.fa1c716c.chunk.css",
+    "main.js": "/face-reco-master/static/js/main.0749bb83.chunk.js",
+    "main.js.map": "/face-reco-master/static/js/main.0749bb83.chunk.js.map",
+    "runtime-main.js": "/face-reco-master/static/js/runtime-main.eabc1f4f.js",
+    "runtime-main.js.map": "/face-reco-master/static/js/runtime-main.eabc1f4f.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/face-reco-master/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.b0e8b842.chunk.js": "/face-reco-master/static/js/2.b0e8b842.chunk.js",
+    "static/js/2.b0e8b842.chunk.js.map": "/face-reco-master/static/js/2.b0e8b842.chunk.js.map",
+    "index.html": "/face-reco-master/index.html",
+    "precache-manifest.d35576cf8c309d4eede1507b5a4f7026.js": "/face-reco-master/precache-manifest.d35576cf8c309d4eede1507b5a4f7026.js",
+    "service-worker.js": "/face-reco-master/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/face-reco-master/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.fa1c716c.chunk.css.map": "/face-reco-master/static/css/main.fa1c716c.chunk.css.map",
+    "static/js/2.b0e8b842.chunk.js.LICENSE": "/face-reco-master/static/js/2.b0e8b842.chunk.js.LICENSE",
+    "static/media/logoIcon.jpeg": "/face-reco-master/static/media/logoIcon.7c2262a7.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.706943f9.js",
+    "static/js/runtime-main.eabc1f4f.js",
     "static/css/2.eb45ad44.chunk.css",
-    "static/js/2.69ad6fd3.chunk.js",
+    "static/js/2.b0e8b842.chunk.js",
     "static/css/main.fa1c716c.chunk.css",
-    "static/js/main.d5801fff.chunk.js"
+    "static/js/main.0749bb83.chunk.js"
   ]
 }
